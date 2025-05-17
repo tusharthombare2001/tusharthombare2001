@@ -8,7 +8,7 @@ I'm TUSHAR, a passionate software engineer and tech enthusiast who loves to crea
 Backend: Java, Spring Boot, Hibernate, MySQL
 Frontend: HTML, CSS, JavaScript
 Tools: Spring Tool Suite (STS), Eclipse IDE, Maven
-Special Interests: Inventory Management Systems, Smart City Projects, Mobile Management Systems
+Special Interests: Inventory Management Systems, Smart City Projects, Mobile Management Systems, UrbanInsight Connect Care.
 📚 Current Projects:
 
 FlipKartClone: A comprehensive e-commerce platform clone using Java, Maven, Hibernate, Spring Boot, and a slick frontend. Involves user authentication, image storage, and complex data management.
